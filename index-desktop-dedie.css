@@ -1,0 +1,123 @@
+*{
+    padding:0;
+    margin:0;
+}
+/* color:#FB8B9B; */
+/* color:#213E4E; */
+i{
+    color:#FB8B9B;   
+   }
+nav{
+    text-align:center;
+}
+#head img{
+    padding-right:25%;
+}
+#head{
+    display:flex;
+    padding:2%;
+}
+nav a {
+text-decoration:none;
+color:black;
+padding-right:0.2%;
+font-size:2em;
+display:inline-block;
+text-align: center;
+}
+#recherch{
+    background-color:#FB8B9B;
+    margin-bottom:2%;
+    color: white;
+    padding:0.5%;
+    font-family:Helvetica;
+
+}
+section{
+  
+    padding-left:10%;
+    padding-right:10%;
+}
+/* ************************************* */
+#dedie h2{
+    border-top:1px dotted black;
+    border-left:1px dotted black;
+    border-right:1px dotted black;
+    text-align: center;
+    padding:2%;
+    font-family:Courier;
+
+}
+#dedie p {
+    width: 80%;
+    text-align: center;
+    padding-left:10%;
+    padding-bottom:5%;
+    font-family:Courier;
+}
+/* **************************************** */
+#price{
+    display: inline-block;
+    padding:2%;
+    margin:2%;
+    border: 1px dotted ;
+    width:25%;
+    margin-bottom:5%;
+    }
+    
+ #offre{
+    width: 100%;
+    margin-top: 0;
+}
+    #offre ul{
+        width: 100%;
+        margin:0 auto;
+        
+        text-align: center;
+        list-style:none;
+        }
+        #offre h4{
+         color: grey;
+         text-align: center;
+
+         }
+    #offre h2{
+        background-color: #213E4E;
+        color: white;
+        margin:1%;
+        text-align: center;
+        padding: 1%;
+        
+    }
+    #offre p{
+        margin:1%;
+        text-align: center;
+        
+    }
+    #offre #comand{
+        color: white;
+        background-color: #FB8B9B;
+        padding:1%;
+    }
+/* ************************************************************ */
+footer{
+    text-align: center;
+    background-color:#213E4E;
+    padding:5%;
+}
+#nav2 a {
+    text-align: center;
+    text-decoration:none;
+    color:white;
+    padding:1%;
+    padding-left:10%;
+
+}
+footer p,a {
+    color: white;
+    text-decoration: none;
+}
+footer img{
+    width:2%;
+    padding:2%;
+}
